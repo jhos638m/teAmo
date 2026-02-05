@@ -1,0 +1,21 @@
+{
+  "name": "Mi Web App de Tortuga",
+  "short_name": "Tortuga App",
+  "description": "Una pequeña web app con icono de tortuga",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#228B22",
+  "icons": [
+    {
+      "src": "/tortuga-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/tortuga-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
